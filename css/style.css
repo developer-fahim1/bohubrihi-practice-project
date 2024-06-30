@@ -1,0 +1,63 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.banner-section {
+    background: #CACACA;
+}
+
+.font-weight-bolder {
+    font-weight: 500 !important;
+}
+
+.menubar {
+    background-color: #262B37 !important;
+}
+
+.about-me {
+    background-color: #00BDBD;
+}
+
+.education {
+    background: #EEEEEE;
+}
+
+.circle {
+    width: 150px;
+    height: 150px;
+    background-color: #FB857F !important;
+    border-radius: 50%;
+}
+
+.project {
+    background-color: #2BB3DD !important;
+}
+
+.gallery {
+    background-color: lightslategrey;
+}
+
+.contact {
+    background-color: #474D5D;
+}
+
+.footer {
+    background-color: #2BB3DD;
+}
+
+.icon {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: lavender;
+    display: inline-block;
+    font-size: 22px;
+}
+
+.icon:hover {
+    background-color: black;
+    color: white;
+}
